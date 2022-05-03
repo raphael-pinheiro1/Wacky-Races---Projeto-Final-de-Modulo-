@@ -1,11 +1,15 @@
 .background__page {
     width: 100%;
+    background: linear-gradient(45deg, rgb(75, 75, 134),black);
 }
 
 .container__nav--bar{
     display:flex;
     align-items: center;
     justify-content: center;
+    background: rgba(137, 199, 199, 0.282);
+    width: 100%;
+    height: 70px;
 }
 
 .menu__icon--nav {
@@ -19,4 +23,80 @@
 
 .link__icon--nav {
 
+}
+
+.icon__nav {
+    width: 40px;
+    height: 40px;
+}
+
+.title__initial--page {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.text__title {
+    font-size: 30px;
+    background: white;
+    padding: 3rem;
+    margin-top:1rem;
+}
+
+.container__initial--page {
+    align-self: center;
+    background: url(image/pageIndex/kisspng-muttley-dick-dastardly-hanna-barbera-cartoon-anima-5b0e71be841703.1135063315276732785411.png) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    height: 350px;
+    justify-content: center;
+    /* margin-top: rem; */
+    width: 100%;
+}
+
+.container__initial--page {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.play__initial--character {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.link__initial--play{
+    align-items: center;
+    background: rgba(0, 0, 0, 0.799);
+    border-radius: 15%;
+    display: flex;
+    height: 200px;
+    justify-content: center;
+    margin-right:3rem;
+    width: 300px;
+}
+
+.link__initial--play:hover {
+    
+}
+
+#penelopeCharming {
+    width: 200px;
+}
+
+#brothersRocha {
+    width: 150px;
+}
+
+#dickSwindler {
+    width: 250px;
+}
+
+.link__image--character:hover {
+    width: 300px;
 }
