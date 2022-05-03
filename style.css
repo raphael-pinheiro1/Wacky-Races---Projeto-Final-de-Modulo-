@@ -1,0 +1,22 @@
+.background__page {
+    width: 100%;
+}
+
+.container__nav--bar{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu__icon--nav {
+    list-style: none;
+    display: flex;
+}
+
+.items__list--nav {
+    margin-right: 2rem;
+}
+
+.link__icon--nav {
+
+}
