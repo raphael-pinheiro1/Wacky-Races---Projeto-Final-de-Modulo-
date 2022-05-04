@@ -9,7 +9,7 @@ function phaseOneDick () {
             break;
 
         } else if (opcao == 2) {
-            window.location.href = "/gameOver_Dick.html";
+            window.location.href = "/dick/gameOver_Dick.html";
             break;
 
         } else {

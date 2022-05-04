@@ -1,0 +1,54 @@
+body {
+    width: 100%;
+    background: linear-gradient(45deg, rgba(15, 6, 65, 0.619), rgba(35, 35, 118, 0.504));
+}
+
+.header__main--page {
+    width: 100%;
+    height: 100px;
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image__header--page {
+    width: 300px;
+}
+
+.container__middle--page {
+    background: url(/image/dickSwindler/kisspng-dick-dastardly-wacky-races-starring-dastardly-and-wacky-races-5b0c508b03d449.1990113115275337070157.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: ;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box__container--text {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.856);
+    text-align: center;
+    width: 500px;
+    height: 150px;
+    color: white;
+    margin: auto 0;
+    border-radius: 15%;
+}
+
+.box__container--text h2 {
+    margin-bottom: 2em;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.box__container--text p {
+    font-weight: bold;
+    font-size: 20px;
+} 
