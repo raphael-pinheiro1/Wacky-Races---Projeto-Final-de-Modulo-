@@ -1,0 +1,121 @@
+body {
+    width: 100%;
+    background: linear-gradient(45deg, rgba(255, 255, 255, 0.734), rgba(62, 59, 62, 0.668));
+    height: 100%;
+}
+
+.phaseOne__header {
+    align-items: center;
+    background: black;
+    display: flex;
+    height: 150px;
+    justify-content: center;
+    width: 100%;
+}
+
+.image__header--phaseOne {
+    height: 110px;
+    width: 200px;
+}
+
+.boxMain--phase1 {
+    background: url(/image/rochaBrothers/irmaos-rocha-titulo.png);
+    height: 400px;
+    background-position: center;
+    background-size: contain;
+}
+
+.container__phase--text {
+    display: flex;
+    /* align-items: center; */
+    height: 300px;
+    justify-content: center;
+    margin: 0 auto;
+   /*  text-align: center; */
+    width: 550px;
+    margin-top: 3rem;
+    flex-direction: column;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.886);
+    border-radius: 20%;
+}
+
+.container__phase--text h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+    margin-bottom: 3rem;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+.container__phase--text p {
+    color: white;
+    font-weight: bold;
+    width: 400px;
+    font-size: 20px;
+}
+
+.link__button--question {
+    margin-top: 3rem;
+    padding: 1rem;
+    background: black;
+    width: 160px;
+    height: 20px;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 5px 4px 4px rgba(0, 0, 0, 0.75);
+}
+
+.link__button--question:hover {
+    font-size: 19px;
+    width: 190px;
+    height: 25px;
+}
+
+.end__page {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100px; */
+    margin-top: 2;
+    background: linear-gradient(45deg, rgba(249, 249, 249, 0.679), rgba(228, 99, 230, 0.959));
+    font-weight: bold;
+    height: 52px;
+}
+
+.end__page ul {
+   width: 350px;
+}
+
+@media screen and (max-width:450px){
+    .phaseOne__header {
+        align-items: center;
+        justify-content: center;
+    }
+
+    .image__header--phaseOne {
+        width:250px;
+        height: 125px;
+    }
+
+    .container__phase--text {
+        width: 50%;
+    }
+
+    .container__phase--text p {
+        font-size: 15px;
+        width: 200px;
+       /*  display: flex;
+        flex-direction: column; */
+    }
+
+    .link__button--question {
+       width: 150px;
+       font-size: 14px;
+    }
+}

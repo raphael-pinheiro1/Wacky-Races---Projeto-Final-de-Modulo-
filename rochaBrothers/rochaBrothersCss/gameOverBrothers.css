@@ -17,11 +17,11 @@ body {
 }
 
 .container__middle--page {
-    background: url(/image/penelopeCharming/kisspng-penelope-pitstop-dick-dastardly-muttley-maggie-dub-perils-of-penelope-pitstop-5b1a841fc23030.9240827415284644157954.png);
+    background: url(/image/rochaBrothers/giphy.gif);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 550px;
+    height: 500px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -42,7 +42,7 @@ body {
 }
 
 .box__container--text h2 {
-    margin-bottom: 2em;
+    margin-bottom: 1em;
     font-weight: bold;
     font-size: 23px;
 }
@@ -50,4 +50,11 @@ body {
 .box__container--text p {
     font-weight: bold;
     font-size: 20px;
+    margin-bottom: 1em;
 } 
+
+footer {
+    background: black;
+    height: 100px;
+    width: 100%;
+}

@@ -1,7 +1,7 @@
 function phaseOneDick () {
     while (opcao != 1 || opcao != 2) {
         var opcao = prompt (
-            `Escolha uma das opções:\n1. Fórmula 1. \n2. Corrida Maluca. `);
+            `Escolha uma das opções:\n1. Para pra por gasolina. \n2. Batem no motor com o porrete. `);
 
 
         if (opcao == 1) {
@@ -9,7 +9,7 @@ function phaseOneDick () {
             break;
 
         } else if (opcao == 2) {
-            window.location.href = "/rochaBrothers/stageTwo_rochaBrothers.html";
+            window.location.href = "/rochaBrothers/winBrothers.html";
             break;
 
         } else {
