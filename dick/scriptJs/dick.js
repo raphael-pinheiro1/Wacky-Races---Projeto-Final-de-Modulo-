@@ -5,7 +5,7 @@ function phaseOneDick () {
 
 
         if (opcao == 1) {
-            location.href = "/gameOver_Dick.html";
+            location.href = "/dick/gameOver_Dick.html";
             break;
 
         } else if (opcao == 2) {

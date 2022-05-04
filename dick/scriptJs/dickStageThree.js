@@ -1,7 +1,7 @@
 function phaseOneDick () {
     while (opcao != 1 || opcao != 2) {
         var opcao = prompt (
-            `Escolha uma das opções:\n1. Poderia enxergar o que ele estava errando e se aperfeiçoar\n2. Ser orgulho e continuar com seu sua maneira de ser desleal. `);
+            `Escolha uma das opções:\n1. Poderia enxergar o que ele estava errando e se aperfeiçoar\n2. Ser orgulho e continuar com sua maneira de ser desleal. `);
 
 
         if (opcao == 1) {
