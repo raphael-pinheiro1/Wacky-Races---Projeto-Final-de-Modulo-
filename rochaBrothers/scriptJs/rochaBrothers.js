@@ -4,11 +4,11 @@ function phaseOneDick () {
             `Escolha uma das opções:\n1. Fórmula 1. \n2. Corrida Maluca. `);
 
 
-        if (opcao == 1) {
+        if (opcao == 2) {
             window.location.href = "/rochaBrothers/gameOverBrothers.html";
             break;
 
-        } else if (opcao == 2) {
+        } else if (opcao == 1) {
             window.location.href = "/rochaBrothers/stageTwo_rochaBrothers.html";
             break;
 

@@ -87,7 +87,7 @@
     justify-content: center;
     margin-right:3rem;
     width: 300px;
-    box-shadow: 4px 5px 5px rgba(255, 255, 255, 0.409);
+    box-shadow: 4px 5px 5px rgba(255, 255, 255, 0.363);
 }
 
 .link__initial--play:active {

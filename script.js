@@ -1,4 +1,4 @@
-/* function primeiraFaseJake () {
+ function prime() {
     while (opcao != 1 || opcao != 2) {
         var opcao = prompt (
             `Escolha uma das opções:\n1. \n2. `);
@@ -16,4 +16,4 @@
             alert (``);
         }
     }
-} */
+}

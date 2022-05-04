@@ -5,7 +5,7 @@ function phaseOneDick () {
 
 
         if (opcao == 1) {
-            window.location.href = "dick/winDick.html";
+            window.location.href = "/dick/winDick.html";
             break;
 
         } else if (opcao == 2) {
