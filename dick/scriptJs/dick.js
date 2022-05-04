@@ -1,7 +1,7 @@
 function phaseOneDick () {
     while (opcao != 1 || opcao != 2) {
         var opcao = prompt (
-            `Escolha uma das opções:\n1. \n2. `);
+            `Escolha uma das opções:\n1. Ele ganhou todas as corridas.\n2. nunca ganhou uma corrida. `);
 
 
         if (opcao == 1) {
@@ -13,7 +13,7 @@ function phaseOneDick () {
             break;
 
         } else {
-            alert (``);
+            alert (`Selecione a pergunta 1 ou 2.`);
         }
     }
 }
