@@ -15,7 +15,7 @@ body {
 
 .image__header--phaseOne {
     height: 110px;
-    width: 450px;
+    width: 200px;
 }
 
 .boxMain--phase1 {
@@ -101,5 +101,21 @@ body {
     .image__header--phaseOne {
         width:250px;
         height: 125px;
+    }
+
+    .container__phase--text {
+        width: 50%;
+    }
+
+    .container__phase--text p {
+        font-size: 15px;
+        width: 200px;
+       /*  display: flex;
+        flex-direction: column; */
+    }
+
+    .link__button--question {
+       width: 150px;
+       font-size: 14px;
     }
 }
