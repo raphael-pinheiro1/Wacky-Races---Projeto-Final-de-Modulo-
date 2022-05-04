@@ -1,15 +1,16 @@
 function phaseOneDick () {
     while (opcao != 1 || opcao != 2) {
         var opcao = prompt (
-            `Escolha uma das opções:\n1. Ele ganhou todas as corridas.\n2. nunca ganhou uma corrida. `);
+            `Escolha uma das opções:\n1. Um salão de beleza.\n2. Uma loja de roupas. `);
 
 
         if (opcao == 1) {
-            window.location.href = "../";
+            window.location.href = "stageThree_dick.html";
             break;
 
         } else if (opcao == 2) {
-            window.location.href = "../";
+            alert(`A vaidade da Penelo Charmosa, fez com que ela se destraí-se com algo que não era importante no momento!`)
+            window.location.href = "/dick/gameOver_Dick.html";
             break;
 
         } else {
