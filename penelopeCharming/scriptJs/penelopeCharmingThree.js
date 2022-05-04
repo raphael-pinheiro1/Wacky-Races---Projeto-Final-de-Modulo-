@@ -1,11 +1,11 @@
 function phaseOneDick () {
     while (opcao != 1 || opcao != 2) {
         var opcao = prompt (
-            `Escolha uma das opções:\n1. Peter Perfeito. \n2. Lenhador. `);
+            `Escolha uma das opções:\n1. 51. \n2. 40. `);
 
 
         if (opcao == 1) {
-            window.location.href = " /penelopeCharming/stage2_penelopeCharming.html ";
+            window.location.href = "/penelopeCharming/winPenelope.html";
             break;
 
         } else if (opcao == 2) {
