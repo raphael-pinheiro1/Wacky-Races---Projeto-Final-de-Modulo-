@@ -21,7 +21,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 550px;
+    height: 450px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -61,9 +61,13 @@ body {
     margin-top: 2;
     background: linear-gradient(45deg, rgba(249, 249, 249, 0.679), rgba(79, 49, 107, 0.959));
     font-weight: bold;
-    height: 52px;
+    height: 100px;
 }
 
 .end__page ul {
    width: 350px;
+}
+
+.end__page ul li {
+    margin-bottom: 0.5rem;
 }
