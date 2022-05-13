@@ -19,7 +19,7 @@ body {
 }
 
 .boxMain--phase1 {
-    background: url(/image/rochaBrothers/irmaos-rocha-titulo.png);
+    background: url(../image/rochaBrothers/irmaos-rocha-titulo.png);
     height: 400px;
     background-position: center;
     background-size: contain;

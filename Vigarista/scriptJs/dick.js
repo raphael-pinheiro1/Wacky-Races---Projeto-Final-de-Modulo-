@@ -5,12 +5,12 @@ function phaseOneDick () {
 
 
         if (opcao == 1) {
-            location.href = "/dick/gameOver_Dick.html";
+            location.href = "../vigarista/gameOver_vigarista.html";
             break;
 
         } else if (opcao == 2) {
             
-            window.location.href = "/dick/stageTwo_dick.html";
+            window.location.href = "../vigarista/stageTwo_vigarista.html";
             break;
 
         } else {

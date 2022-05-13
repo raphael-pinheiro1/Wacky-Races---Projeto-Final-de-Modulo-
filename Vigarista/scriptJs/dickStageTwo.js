@@ -5,12 +5,12 @@ function phaseOneDick () {
 
 
         if (opcao == 1) {
-            window.location.href = "stageThree_dick.html";
+            window.location.href = "./stageThree_vigarista.html";
             break;
 
         } else if (opcao == 2) {
             alert(`A vaidade da Penelo Charmosa, fez com que ela se destraí-se com algo que não era importante no momento!`)
-            window.location.href = "/dick/gameOver_Dick.html";
+            window.location.href = "/dick/gameOver_vigarista.html";
             break;
 
         } else {

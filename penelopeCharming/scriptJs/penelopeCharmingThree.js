@@ -5,11 +5,11 @@ function phaseOneDick () {
 
 
         if (opcao == 1) {
-            window.location.href = "/penelopeCharming/winPenelope.html";
+            window.location.href = "../penelopeCharming/winPenelope.html";
             break;
 
         } else if (opcao == 2) {
-            window.location.href = "/penelopeCharming/gameOverPenelope.html";
+            window.location.href = "../penelopeCharming/gameOverPenelope.html";
             break;
 
         } else {

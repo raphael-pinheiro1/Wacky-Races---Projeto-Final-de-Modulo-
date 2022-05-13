@@ -5,11 +5,11 @@ function phaseOneDick () {
 
 
         if (opcao == 1) {
-            window.location.href = "/rochaBrothers/gameOverBrothers.html";
+            window.location.href = "../rochaBrothers/gameOverBrothers.html";
             break;
 
         } else if (opcao == 2) {
-            window.location.href = "/rochaBrothers/winBrothers.html";
+            window.location.href = "../rochaBrothers/winBrothers.html";
             break;
 
         } else {
