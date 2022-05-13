@@ -83,7 +83,7 @@ body {
     align-items: center;
     /* height: 100px; */
     margin-top: 2;
-    background: linear-gradient(45deg, rgba(249, 249, 249, 0.679), rgba(228, 99, 230, 0.959));
+    background: linear-gradient(45deg, rgba(249, 249, 249, 0.679), rgba(70, 45, 90, 0.959));
     font-weight: bold;
     height: 52px;
 }

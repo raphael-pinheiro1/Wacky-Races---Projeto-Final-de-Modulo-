@@ -51,3 +51,19 @@ body {
     font-weight: bold;
     font-size: 20px;
 } 
+
+.end__page {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100px; */
+    margin-top: 2;
+    background: linear-gradient(45deg, rgba(249, 249, 249, 0.679), rgba(79, 49, 107, 0.959));
+    font-weight: bold;
+    height: 52px;
+}
+
+.end__page ul {
+   width: 350px;
+}
