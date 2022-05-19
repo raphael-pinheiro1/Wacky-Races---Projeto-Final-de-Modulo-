@@ -8,4 +8,7 @@
     <li>Conhecimentos em Flex-box utilizados</li>
 </ul>
 
+Link page: wackyraceone.netlify.app
 Link github pages: https://raphael-pinheiro1.github.io/Wacky-Races---Projeto-Final-de-Modulo-/
+
+
